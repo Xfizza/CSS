@@ -1,0 +1,44 @@
+p{
+    font-size: 1rem;
+}
+h1{
+    font-size: 3rem;
+    color: blueviolet;
+    text-align: center;
+}
+.font-size{
+    font-size: 50px;
+}
+.color{
+    color: brown;
+}
+.text-align{
+    text-align: end;
+}
+.line-height{
+    line-height: 50px;
+}
+.letter-spacing{
+    letter-spacing: 20px;
+}
+.word-spacing{
+    word-spacing: 20px;
+}
+.text-decoration{
+    text-decoration: line-through;
+}
+.font-style{
+    font-style: italic;
+}
+.text-transform{
+    text-transform: uppercase;
+}
+.text-indent{
+    text-indent: 50px;
+}
+.list-style{
+    list-style: circle;
+}
+.list-style{
+    list-style: none;
+}
